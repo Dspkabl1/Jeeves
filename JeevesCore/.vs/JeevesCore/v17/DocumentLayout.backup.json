@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Deployment\\Jeeves\\JeevesCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099D2D75-BA70-4AA8-8B4D-F2F5C85F3DB1}|JeevesCore\\JeevesCore.csproj|c:\\deployment\\jeeves\\jeevescore\\jeevescore\\rick.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{099D2D75-BA70-4AA8-8B4D-F2F5C85F3DB1}|JeevesCore\\JeevesCore.csproj|solutionrelative:jeevescore\\rick.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rick.md",
+              "DocumentMoniker": "C:\\Deployment\\Jeeves\\JeevesCore\\JeevesCore\\rick.md",
+              "RelativeDocumentMoniker": "JeevesCore\\rick.md",
+              "ToolTip": "C:\\Deployment\\Jeeves\\JeevesCore\\JeevesCore\\rick.md",
+              "RelativeToolTip": "JeevesCore\\rick.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-28T04:06:39.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
